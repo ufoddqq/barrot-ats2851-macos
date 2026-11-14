@@ -1,0 +1,19 @@
+Documentation in this repository (README.md, README.zh-CN.md, docs/, snippets/) is
+licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to share and adapt the material for any purpose, provided you give
+appropriate credit and indicate if changes were made.
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+Exception: the configuration snippets in snippets/ are released into the public
+domain (CC0 1.0). Use them without attribution.
+
+Third-party projects referenced here keep their own licenses:
+
+  BlueToolFixup (acidanthera/BrcmPatchRAM)          GPL-2.0
+  IntelBTPatcher (OpenIntelWireless/IntelBluetoothFirmware)  GPL-2.0
+  Lilu (acidanthera/Lilu)                            BSD-3-Clause
+
+No third-party binaries are redistributed in this repository.

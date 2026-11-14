@@ -1,0 +1,12 @@
+# never publish these
+*.pklg
+*.ips
+*.dmp
+EFI/
+config.plist
+config.plist.bak*
+*.kext
+
+# macOS noise
+.DS_Store
+._*

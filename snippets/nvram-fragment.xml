@@ -1,0 +1,18 @@
+<!-- OpenCore: NVRAM -> Add -> 7C436110-AB2A-4BBB-A880-FE41995C9F82 -->
+<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
+<dict>
+    <key>bluetoothExternalDongleFailed</key>
+    <data>AA==</data>
+    <key>bluetoothInternalControllerInfo</key>
+    <data>AAAAAAAAAAAAAAAAAAA=</data>
+    <key>bluetoothHostControllerSwitchBehavior</key>
+    <string>always</string>
+</dict>
+
+<!-- OpenCore: NVRAM -> Delete -> 7C436110-AB2A-4BBB-A880-FE41995C9F82 -->
+<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
+<array>
+    <string>bluetoothExternalDongleFailed</string>
+    <string>bluetoothInternalControllerInfo</string>
+    <string>bluetoothHostControllerSwitchBehavior</string>
+</array>

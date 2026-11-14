@@ -1,0 +1,9 @@
+# OpenCore: Kernel -> Add (order matters: Lilu first)
+#
+# | # | BundlePath          | ExecutablePath                | PlistPath           | Enabled |
+# |---|---------------------|-------------------------------|---------------------|---------|
+# | 0 | Lilu.kext           | Contents/MacOS/Lilu           | Contents/Info.plist | true    |
+# | 1 | BlueToolFixup.kext  | Contents/MacOS/BlueToolFixup  | Contents/Info.plist | true    |
+# | 2 | IntelBTPatcher.kext | Contents/MacOS/IntelBTPatcher | Contents/Info.plist | true    |
+
+MinKernel: empty    MaxKernel: empty    Arch: Any
